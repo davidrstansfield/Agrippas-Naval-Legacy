@@ -1,8 +1,4 @@
----
-#permalink: /Naval-Career/actium-to-triumph/
-layout: single
-title: "Agrippa’s Movements: September 2, 31 BC – August 13, 29 BC"
----
+# Agrippa’s Movements: September 2, 31 BC – August 13, 29 BC
 
 This document outlines Marcus Vipsanius Agrippa’s naval and political activities from the Battle of Actium (September 2, 31 BCE) to Octavian’s triumph in Rome (August 13–15, 29 BCE), a critical period in consolidating Augustan power.
 {: .notice--info}
