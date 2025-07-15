@@ -1,5 +1,6 @@
 # Agrippas-Naval-Legacy
-Agrippa’s Naval Legacy: Actium and Beyond
+
+## Agrippa’s Naval Legacy: Actium and Beyond
 
 * **Primary Focus:** Agrippa’s naval career (38–12 BCE), with detailed attention to movements between Actium (31 BCE) and Octavian’s triumph (29 BCE).  
 * **Secondary Focus:** Agrippa’s broader life (63–12 BCE), including early years and post-29 BCE activities (e.g., administrative roles, possible Spanish campaigns).  
