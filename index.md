@@ -38,4 +38,5 @@ We welcome contributions from historians, students, and enthusiasts. See our [Co
 
 *Last Updated*: July 15, 2025
 
-<small>License: GPL v2</small>
+*License*: [GNU General Public License v2](https://github.com/davidrstansfield/Agrippas-Naval-Legacy/blob/main/LICENSE)
+
