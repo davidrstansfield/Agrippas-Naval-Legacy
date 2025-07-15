@@ -1,8 +1,4 @@
----
-#permalink: /Naval-Career/missing-sources/
-layout: single
-title: "Missing Sources for Agrippa’s Naval Career (38–12 BCE)"
----
+# Missing Sources for Agrippa’s Naval Career (38–12 BCE)
 
 This document identifies historical sources that are missing or partially lost, which could illuminate Marcus Vipsanius Agrippa’s naval career (38–12 BCE), particularly his role in the Roman civil wars and movements between the Battle of Actium (31 BCE) and Octavian’s triumph (29 BCE). These gaps challenge our understanding of Agrippa’s contributions to Rome’s naval dominance.
 {: .notice--info}

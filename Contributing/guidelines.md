@@ -1,7 +1,4 @@
----
-layout: single
-title: "Agrippa’s Movements: September 2, 31 BC – August 13, 29 BC"
----
+# Agrippa’s Movements: September 2, 31 BC – August 13, 29 BC
 
 We welcome contributions to **Agrippa's Naval Legacy** from historians, students, and enthusiasts. This document outlines how to contribute to the project.
 {: .notice--info}
