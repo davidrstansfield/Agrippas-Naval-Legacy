@@ -19,26 +19,29 @@ This project aims to:
 - Provide a clear, accessible timeline and biography for researchers, students, and enthusiasts.
 
 ## Contents
-- **[Life Overview](/Life-Overview/)**: Agrippa’s life (63–12 BCE), with a focus on his naval contributions.
-  - [Biography](/Life-Overview/biography.md)
-  - [Timeline](/Life-Overview/timeline.md)
-- **[Naval Career](/Naval-Career/)**: Detailed analysis of Agrippa’s naval role.
-  - [Overview](/Naval-Career/overview.md)
-  - [Campaigns](/Naval-Career/campaigns.md)
-  - [Actium to Triumph](/Naval-Career/actium-to-triumph.md)
-  - [Missing Sources](/Naval-Career/missing-sources.md)
-- **[Propaganda](/Propaganda/)**: Augustan propaganda and Agrippa’s legacy.
-  - [Overview](/Propaganda/overview.md)
-  - [Missing Sources](/Propaganda/missing-sources.md)
-- **[References](/References/)**: Sources and bibliography.
-  - [Bibliography](/References/bibliography.md)
-- **[Contributing](/Contributing/)**: How to contribute to the project.
-  - [Guidelines](/Contributing/guidelines.md)
+
+- **[Life Overview](./Life-Overview/)**: Agrippa’s life (63–12 BCE), with a focus on his naval contributions.
+  - [Biography](./Life-Overview/biography)
+  - [Timeline](/.Life-Overview/timeline)
+- **[Naval Career](./Naval-Career/)**: Detailed analysis of Agrippa’s naval role.
+  - [Overview](./Naval-Career/overview)
+  - [Campaigns](./Naval-Career/campaigns)
+  - [Actium to Triumph](./Naval-Career/actium-to-triumph)
+  - [Missing Sources](./Naval-Career/missing-sources)
+- **[Propaganda](./Propaganda/)**: Augustan propaganda and Agrippa’s legacy.
+  - [Overview](./Propaganda/overview)
+  - [Missing Sources](./Propaganda/missing-sources)
+- **[References](./References/)**: Sources and bibliography.
+  - [Bibliography](./References/bibliography)
+- **[Contributing](./Contributing/)**: How to contribute to the project.
+  - [Guidelines](./Contributing/guidelines)
 
 ## Methodology
+
 This project draws on primary and secondary sources, including Anthony Everitt’s *Augustus* and *The Cambridge Ancient History, Volume X*. Where sources are incomplete or contradictory, we highlight gaps and invite community input to refine our understanding. All contributions are reviewed to ensure accuracy and relevance.
 
 ## Get Involved
+
 We welcome contributions from historians, students, and enthusiasts. See our [Contributing Guidelines](/Contributing/guidelines.md) to suggest edits, propose new sources, or critique existing content.
 
 ---
