@@ -12,20 +12,20 @@ A research project exploring the naval contributions of Marcus Vipsanius Agrippa
 
 ## Contents
 
-- **[Life Overview](./Life-Overview/)**: Agrippa’s life (63–12 BCE), with a focus on his naval contributions.
-  - [Biography](./Life-Overview/biography.md)
-  - [Timeline](./Life-Overview/timeline.md)
-- **[Naval Career](./Naval-Career/)**: Detailed analysis of Agrippa’s naval role.
-  - [Overview](./Naval-Career/overview.md)
-  - [Campaigns](./Naval-Career/campaigns.md)
+- **Life Overview**: Agrippa’s life (63–12 BCE), with a focus on his naval contributions.
+  - Biography
+  - Timeline
+- **Naval Career**: Detailed analysis of Agrippa’s naval role.
+  - Overview
+  - Campaigns
   - [Actium to Triumph](./Naval-Career/actium-to-triumph.md)
   - [Missing Sources](./Naval-Career/missing-sources.md)
-- **[Propaganda](./Propaganda/)**: Augustan propaganda and Agrippa’s legacy.
-  - [Overview](./Propaganda/overview.md)
-  - [Missing Sources](./Propaganda/missing-sources.md)
-- **[References](./References/)**: Sources and bibliography.
-  - [Bibliography](./References/bibliography.md)
-- **[Contributing](./Contributing/)**: How to contribute to the project.
+- **Propaganda**: Augustan propaganda and Agrippa’s legacy.
+  - Overview
+  - Missing Sources
+- **References**: Sources and bibliography.
+  - Bibliography
+- **Contributing**: How to contribute to the project.
   - [Guidelines](./Contributing/guidelines.md)
 
 ## Methodology
@@ -37,3 +37,5 @@ This project draws on primary and secondary sources, including Anthony Everitt�
 We welcome contributions from historians, students, and enthusiasts. See our [Contributing Guidelines](/Contributing/guidelines.md) to suggest edits, propose new sources, or critique existing content.
 
 *Last Updated*: July 15, 2025
+
+<small>License: GPL v2</small>
