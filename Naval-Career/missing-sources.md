@@ -5,7 +5,6 @@ title: "Missing Sources for Agrippa’s Naval Career (38–12 BCE)"
 ---
 
 This document identifies historical sources that are missing or partially lost, which could illuminate Marcus Vipsanius Agrippa’s naval career (38–12 BCE), particularly his role in the Roman civil wars and movements between the Battle of Actium (31 BCE) and Octavian’s triumph (29 BCE). These gaps challenge our understanding of Agrippa’s contributions to Rome’s naval dominance.
-
 {: .notice--info}
 
 ## Known Missing Sources
@@ -75,11 +74,11 @@ This document identifies historical sources that are missing or partially lost, 
 
 ## Contribution Opportunities
 
-We invite researchers to suggest additional lost sources, archaeological evidence, or secondary analyses to address these gaps. Please submit via GitHub Issues using the [New Entry](https://github.com/davidrstansfield/Agrippas-Naval-Legacy/issues/new?template=new_entry.md) or [Contested Entry](https://github.com/davidrstansfield/Agrippas-Naval-Legacy/issues/new?template=contested_entry.md) templates. See [Contributing Guidelines](/Contributing/guidelines.md) for details.
+We invite researchers to suggest additional lost sources, archaeological evidence, or secondary analyses to address these gaps. Please submit via GitHub Issues using the [New Entry](https://github.com/davidrstansfield/Agrippas-Naval-Legacy/issues/new?template=new_entry.md) or [Contested Entry](https://github.com/davidrstansfield/Agrippas-Naval-Legacy/issues/new?template=contested_entry.md) templates. See [Contributing Guidelines](../Contributing/guidelines.md) for details.
 
 ## Notes
 
-- Gaps in propaganda-related sources are discussed in [/Propaganda/missing-sources.md](/Propaganda/missing-sources.md).
+- Gaps in propaganda-related sources are discussed in [/Propaganda/missing-sources.md](../Propaganda/missing-sources.md).
 - Sources marked as “propagandistic” may overstate Octavian’s role or understate Agrippa’s contributions.
 
 *Last Updated*: July 15, 2025

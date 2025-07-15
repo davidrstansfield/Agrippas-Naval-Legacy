@@ -55,14 +55,14 @@ Due to limited primary sources, some details remain speculative. Contributions a
 
 ## Contribution Opportunities
 
-We invite scholars to contribute primary sources, archaeological evidence, or secondary analyses to clarify Agrippa’s movements. Submit via GitHub Issues using the [New Entry](https://github.com/davidrstansfield/Agrippas-Naval-Legacy/issues/new?template=new_entry.md) or [Contested Entry](https://github.com/davidrstansfield/Agrippas-Naval-Legacy/issues/new?template=contested_entry.md) templates. See [Contributing Guidelines](/Contributing/guidelines) for details.
+We invite scholars to contribute primary sources, archaeological evidence, or secondary analyses to clarify Agrippa’s movements. Submit via GitHub Issues using the [New Entry](https://github.com/davidrstansfield/Agrippas-Naval-Legacy/issues/new?template=new_entry.md) or [Contested Entry](https://github.com/davidrstansfield/Agrippas-Naval-Legacy/issues/new?template=contested_entry.md) templates. See [Contributing Guidelines](../Contributing/guidelines.md) for details.
 
 ## Notes
 
 - **Primary Sources**: Cassius Dio, Plutarch, Josephus
 - **Secondary Sources**: *Encyclopaedia Britannica*, *World History Encyclopedia*
-- **Propaganda**: Augustan accounts may downplay Agrippa’s role to emphasize Octavian (see [/Propaganda/overview.md](/Propaganda/overview))
-- **Source Gaps**: Discussed in [/Naval-Career/missing-sources.md](/Naval-Career/missing-sources.md)
+- **Propaganda**: Augustan accounts may downplay Agrippa’s role to emphasize Octavian (see [/Propaganda/overview.md](../Propaganda/overview.md))
+- **Source Gaps**: Discussed in [/Naval-Career/missing-sources.md](../Naval-Career/missing-sources.md)
 
 ## References
 

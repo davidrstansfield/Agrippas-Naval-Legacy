@@ -4,7 +4,6 @@ title: "Agrippa’s Movements: September 2, 31 BC – August 13, 29 BC"
 ---
 
 We welcome contributions to **Agrippa's Naval Legacy** from historians, students, and enthusiasts. This document outlines how to contribute to the project.
-
 {: .notice--info}
 
 ## How to Contribute
@@ -20,14 +19,14 @@ We welcome contributions to **Agrippa's Naval Legacy** from historians, students
 - **Relevance**: Ensure submissions focus on Agrippa’s naval career (38–12 BCE), life (63–12 BCE), or Augustan propaganda.
 - **Sources**: Cite primary or secondary sources (e.g., Cassius Dio, Everitt’s *Augustus*). Unverified claims will be flagged for review.
 - **Tone**: Use a professional, accessible tone suitable for researchers and enthusiasts.
-- **Formatting**: Follow Markdown conventions and the repository’s structure (see [README.md](/README.md)).
+- **Formatting**: Follow Markdown conventions and the repository’s structure (see [README.md](../README.md)).
 - **Respect**: Engage constructively, respecting other contributors’ perspectives.
 
 ## Review Process
 
 - All contributions are reviewed by the project maintainers for accuracy and relevance.
 - Expect feedback or requests for clarification within 7 days of submission.
-- Approved contributions will be integrated into the relevant section (e.g., [/Naval-Career](/Naval-Career/), [/References](/References/)).
+- Approved contributions will be integrated into the relevant section (e.g., [/Naval-Career](../Naval-Career/), [/References](../References/)).
 
 ## Contact
 
