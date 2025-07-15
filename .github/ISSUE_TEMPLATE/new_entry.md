@@ -1,35 +1,35 @@
 ---
-name: Contested Entry
-description: Challenge or refine existing content in Agrippa's Naval Legacy
-title: "[Contested Entry] <Your Title>"
-labels: [contested]
+name: New Entry
+description: Propose new content or sources for Agrippa's Naval Legacy
+title: "[New Entry] <Your Title>"
+labels: [new-entry]
 body:
   - type: markdown
     attributes:
       value: |
-        Thank you for contributing to Agrippa's Naval Legacy! Use this template to challenge or refine existing content.
+        Thank you for contributing to Agrippa's Naval Legacy! Use this template to propose new content or sources.
   - type: textarea
-    id: contested-content
+    id: new-content
     attributes:
-      label: Content to Contest
-      description: Specify the content you wish to challenge (e.g., a claim in /Naval-Career/actium-to-triumph.md).
-      placeholder: "Example: The claim that Agrippa was in Brundisium in late 31 BCE lacks evidence."
+      label: Proposed Content
+      description: Describe the new content or source (e.g., a new source for Agrippa’s 36 BCE campaign).
+      placeholder: "Example: Suggest adding a reference to a naval inscription from Brundisium."
     validations:
       required: true
   - type: textarea
-    id: evidence
+    id: relevance
     attributes:
-      label: Supporting Evidence
-      description: Provide sources or reasoning to support your challenge (e.g., primary sources, archaeological evidence).
-      placeholder: "Example: Cassius Dio does not confirm Agrippa’s location in late 31 BCE."
+      label: Relevance
+      description: Explain how this contributes to Agrippa’s naval career, life, or propaganda.
+      placeholder: "Example: Clarifies Agrippa’s fleet logistics post-Actium."
     validations:
       required: true
   - type: textarea
-    id: proposed-change
+    id: sources
     attributes:
-      label: Proposed Change
-      description: Suggest how the content should be revised.
-      placeholder: "Example: Update to state Agrippa’s location in late 31 BCE is speculative."
+      label: Sources
+      description: Provide citations for your proposal (e.g., primary or secondary sources).
+      placeholder: "Example: Inscription cited in Smith (2020), Roman Naval Records."
     validations:
       required: true
 ---
