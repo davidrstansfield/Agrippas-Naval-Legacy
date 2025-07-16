@@ -1,6 +1,7 @@
 # Biography of Marcus Vipsanius Agrippa (63–12 BCE)
 
 This page will provide a detailed biography of Marcus Vipsanius Agrippa, focusing on his life (63–12 BCE) with an emphasis on his naval contributions. Content is under development, drawing on primary and secondary sources, including F.A. Wright’s reprint and other reputable works.
+{: .notice--info}
 
 ## Early Life
 

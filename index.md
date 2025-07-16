@@ -13,7 +13,7 @@ A research project exploring the naval contributions of Marcus Vipsanius Agrippa
 ## Contents
 
 - **Life Overview**: Agrippa’s life (63–12 BCE), with a focus on his naval contributions.
-  - Biography
+  - [Biography](./Life-Overview/biography.md)
   - Timeline
 - **Naval Career**: Detailed analysis of Agrippa’s naval role.
   - Overview
