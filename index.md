@@ -1,7 +1,7 @@
 # Agrippa’s Naval Legacy
 
 A research project exploring the naval contributions of Marcus Vipsanius Agrippa (63–12 BCE), with a focus on his role in the Roman civil wars, the Battle of Actium (31 BCE), and the Augustan propaganda that shaped his legacy. This repository expands on the earlier [Actium-Campaign](https://github.com/davidrstansfield/Actium-Campaign) project, offering a broader examination of Agrippa’s life, naval career, and historical representation.
-{: .notice--warning}
+{: .notice--info}
 
 ## Project Scope
 
